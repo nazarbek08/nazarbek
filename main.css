@@ -1,0 +1,218 @@
+ @font-face {
+    font-family: NAZA;
+    src: url(./NAZA.ttf);
+ }
+
+ body {
+    background-color: rgb(214, 214, 214);
+ }
+
+ .container {
+    width: 1400px;
+    height: 2200px;
+    background-color: #fff;
+    margin: 0 auto;
+ }
+
+ .box {
+    width: 1400px;
+    height: 70px;
+    background-color: #ffffff;
+ }
+
+ .rasim {
+    margin-top: 20px;
+    margin-left: 20px;
+ }
+
+ .teks {
+    width: 700px;
+    height: 70px;
+    /* background-color: rgb(255, 255, 255); */
+    margin-top: -50px;
+    margin-left: 800px;
+ }
+
+ .teks>p {
+    display: inline-block;
+    font-family: NAZA;
+    margin-left: 60px;
+
+ }
+
+ .santa {
+    font-family: NAZA;
+    width: 100px;
+    height: 35px;
+    background-color: rgb(56, 188, 231);
+    border-radius: 10px;
+    margin-left: 100px;
+    transition: .5s;
+    color: #ffffff;
+ }
+
+ .santa:hover {
+    transition: .5s;
+    background-color: white;
+    color: #000;
+ }
+
+ .kukirak_qismi {
+    width: 1200px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+ }
+
+ .saman {
+    font-family: NAZA;
+    font-size: 50px;
+ }
+
+ .kukirak_qismi>h1 {
+    font-family: NAZA;
+    font-size: 50px;
+
+
+ }
+
+ .salom {
+    font-family: NAZA;
+    font-size: 26px;
+    color: #838383;
+
+ }
+
+ .bacha {
+    margin-top: -400px;
+    margin-left: 700px;
+ }
+
+ .qorni {
+    width: 1200px;
+    height: 600px;
+    /* background-color: aqua; */
+    margin: 0 auto;
+ }
+
+ .santa_mareya {
+    width: 400px;
+    height: 70px;
+    /* background-color: azure; */
+    margin-left: 450px;
+ }
+
+ .santa_mareya>.aba {
+    display: inline-block;
+    font-family: NAZA;
+    font-size: 30px;
+    color: rgba(20, 39, 155, 1);
+ }
+
+ .santa_mareya>.hama {
+    display: inline-block;
+    font-family: NAZA;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+ }
+
+ .bob {
+    width: 1400px;
+    height: 400px;
+    display: inline-block;
+
+ }
+
+ .boh {
+    width: 400px;
+    height: 350px;
+    background-image: url(./santo.png);
+    display: inline-block;
+ }
+
+ .bh {
+    width: 400px;
+    height: 350px;
+    background-image: url(./santo_2.png);
+    display: inline-block;
+ }
+
+ .bo {
+    width: 400px;
+    height: 350px;
+    background-image: url(./santo_3.png);
+    display: inline-block;
+ }
+
+
+
+ .santa_marey {
+    width: 400px;
+    height: 70px;
+    /* background-color: azure; */
+    margin-left: 500px;
+ }
+
+ .santa_marey>.ab {
+    display: inline-block;
+    font-family: NAZA;
+    font-size: 30px;
+    color: rgba(20, 39, 155, 1);
+ }
+
+ .santa_marey>.ham {
+    display: inline-block;
+    font-family: NAZA;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+ }
+
+ .ob {
+    width: 1400px;
+    height: 400px;
+    display: inline-block;
+
+ }
+
+ .oh {
+    width: 400px;
+    height: 350px;
+    background-image: url(./santo_4.png);
+    display: inline-block;
+ }
+
+ .h {
+    width: 400px;
+    height: 350px;
+    background-image: url(./santo_5.png);
+    display: inline-block;
+ }
+
+ .o {
+    width: 400px;
+    height: 350px;
+    background-image: url(./santo_6.png);
+    display: inline-block;
+ }
+
+ .love {
+    width: 200px;
+    margin-left: 75px;
+
+ }
+
+
+
+ .sam {
+    width: 1400px;
+    margin-top: -100px;
+    margin-left: -100px;
+ }
+
+ .sa {
+    font-family: NAZA;
+    font-size: 30px;
+    margin-top: -100px;
+    margin-left: 500px;
+    color: #ffffff;
+ }
